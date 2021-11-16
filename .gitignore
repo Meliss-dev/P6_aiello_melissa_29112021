@@ -1,0 +1,5 @@
+/node_modules
+
+#IGNORER LES IMAGES
+* .jpg 
+* .png
